@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+A small expo app that Scans QR Code and receive push notification on successful scan.
+
 ## Get started
 
 1. Install dependencies
